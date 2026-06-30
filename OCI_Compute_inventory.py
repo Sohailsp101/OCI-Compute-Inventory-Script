@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 import sys
 
 
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
 CONFIG_PROFILE = "DEFAULT"
 OUTPUT_FILE = f"OCI_Compute_Report_{datetime.now().strftime('%Y-%m-%d_%H-%M')}.xlsx"
 
