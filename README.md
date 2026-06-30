@@ -2,7 +2,7 @@
 
 This Python script automates the collection of Oracle Cloud Infrastructure (OCI) Compute instance details across all accessible compartments within a tenancy and exports the information into a structured Excel report.
 
-The generated report is organized into separate worksheets based on the **Environment** tag (**PROD**, **DEV**, **UAT**) and includes a **Summary** sheet with overall instance statistics.
+The generated report is organized into separate worksheets based on the **Environment** tag (**PROD**, **DEV**, **UAT**) and includes a **Summary** sheet with overall instance details.
 
 ## Information Collected
 
